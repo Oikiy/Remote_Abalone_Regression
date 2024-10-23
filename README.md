@@ -18,4 +18,11 @@ This project is the first project in my Machine learning project series, in whic
 14. Future improvement
 
 ## Problem statement 
+> [!NOTE]
+> This is one of the 2024 playground competitions on Kaggle. The major goal of the project is the develop a model for predicting the age of abalone from different physical measurements via the prediction of the number of Rings. The rings is regarded as a continous variable in this project, and thus the problem is a regression problem.
+> The model performanc will be checked by the Root Mean Squared Logarithmic Error between the actual and predicted "Rings", which is linearly related to the Abalone's age.
+> Reference:
+[1] Walter Reade, Ashley Chow. (2024). Regression with an Abalone Dataset. Kaggle. https://kaggle.com/competitions/playground-series-s4e4
 
+## Navigation 
+The complete notebook and implementation is located at : notebook/Regression_Abalone.ipynb
